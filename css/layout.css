@@ -1,11 +1,11 @@
 body {
-    background-color: #ffffff;
+    background-color: #ff8c00;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .common {
     /* background-color: #cccccc; */
-    border: 2px solid white;
+    border: 2px solid #ff8c00;
     position: absolute;
 } 
 
@@ -15,7 +15,7 @@ body {
     right: 5px;
     height: 100px;
     z-index: 5;
-    border-bottom: solid 1px #555555;
+    border-bottom: solid 1px #ff8c00;
 }
 
 .leftmenu {
@@ -25,7 +25,7 @@ body {
     bottom: 39px;
     z-index: 1;
     padding-top: 50px;
-    border-right: solid 1px #555555;
+    border-right: solid 1px #ff8c00;
 }
 
 .mainbody {
